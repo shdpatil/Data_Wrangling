@@ -4,4 +4,4 @@ https://www.openstreetmap.org and used data munging techniques, such as assessin
 to clean the OpenStreetMap data.
 I chose the Miami City, which is my favourite region. Python was used to clean and audit the data and creating a json file and
 prepare it for inserting into the NoSQL database: MongoDB. Many  MongoDB queries were then run to arrive at interesting findings.Basically
-I run queries to check the amenities like restaurants, place of worship, schools etc. Then I run queries to check the total no of postal codes. 
+I run queries to check the amenities like restaurants, place of worship, schools etc. Then I run queries to check the total no of postal codes. I also discussed about the users contributing to the openstreet.org site
